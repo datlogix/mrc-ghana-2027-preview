@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MRC Ghana 2027 — News &amp; blog</title>
+    <link>https://www.mrcghana.com/blog</link>
+    <description>News and announcements from Minoan RobotSports Competition Ghana 2027.</description>
+    <language>en-gb</language>
+    <item>
+      <title>MRC Ghana 2027 set for 29–30 January in Accra</title>
+      <link>https://www.mrcghana.com/blog/mrc-ghana-2027-dates-confirmed</link>
+      <guid isPermaLink="true">https://www.mrcghana.com/blog/mrc-ghana-2027-dates-confirmed</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The Minoan RobotSports Competition Ghana 2027 will take place on Friday 29 and Saturday 30 January 2027 in Accra. Here is what we know so far and how to get involved.</description>
+    </item>
+    <item>
+      <title>Seven robot sports: which one suits your team?</title>
+      <link>https://www.mrcghana.com/blog/seven-robot-sports-explained</link>
+      <guid isPermaLink="true">https://www.mrcghana.com/blog/seven-robot-sports-explained</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <description>From autonomous line-following robots to aerial football, here is a quick guide to the seven sports on the MRC Ghana 2027 programme.</description>
+    </item>
+    <item>
+      <title>The road to Chania: the MRC Global Olympiad 2027</title>
+      <link>https://www.mrcghana.com/blog/road-to-chania-global-olympiad-2027</link>
+      <guid isPermaLink="true">https://www.mrcghana.com/blog/road-to-chania-global-olympiad-2027</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The 6th MRC Global Olympiad takes place on 23–26 April 2027 in Chania, Crete. Here is how the international event relates to MRC Ghana 2027.</description>
+    </item>
+  </channel>
+</rss>
